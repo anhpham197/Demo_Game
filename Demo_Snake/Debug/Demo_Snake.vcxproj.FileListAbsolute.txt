@@ -1,0 +1,2 @@
+C:\Users\phama\Desktop\Demo_Snake\Debug\Demo_Snake.exe
+C:\Users\phama\Desktop\Demo_Snake\Debug\Demo_Snake.pdb
